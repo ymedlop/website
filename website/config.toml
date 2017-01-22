@@ -1,0 +1,50 @@
+## Basic Configuration
+baseurl = "https://ymedlop-website.firebaseapp.com/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Yeray Medina López"
+title = "Yeray Medina López"
+
+theme = "hugo-goa"
+
+## Site Settings
+[params]
+author = "Yeray Medina López"
+intro = "Jack of all trades, master of none"
+description = "Nothing to do here..."
+authorimage = "avatar.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "My personal website."
+keywords = "blog,developer"
+
+## Social Accounts
+[params.social]
+github = "ymedlop"
+linkedin = "ymedlop"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Yeray Medina López. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
