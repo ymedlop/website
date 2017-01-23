@@ -8,7 +8,7 @@ slug = ""
 date = "2017-01-21T19:48:01+01:00"
 categories = []
 tags = []
-
+type = "post"
 +++
 
 [![alt text][1]][2]

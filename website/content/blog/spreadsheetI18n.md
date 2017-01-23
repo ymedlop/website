@@ -8,7 +8,7 @@ comments = false
 date = "2017-01-21T19:50:36+01:00"
 showcomments = true
 showpagemeta = true
-
+type = "post"
 +++
 
 Normalmente cuando desarrollamos en [**frontend**](https://es.wikipedia.org/wiki/Front-end_y_back-end). Entre todos los requerimientos que tenemos, nuestra aplicación debe ser **multi-idioma**. 

@@ -8,7 +8,7 @@ categories = []
 comments = false
 draft = false
 tags = []
-
+type = "post"
 +++
 
 Welcome back a new version of my blog builded it with Hugo.
