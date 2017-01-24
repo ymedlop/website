@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://ymedlop-website.firebaseapp.com/"
+baseurl = "https://ymedlop.es/"
 anguageCode = "en-us"
 title = "Ymedlop Site"
 theme = "hugo-future-imperfect"
