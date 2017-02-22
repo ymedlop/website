@@ -11,10 +11,7 @@ tags = []
 type = "post"
 +++
 
-[![alt text][1]][2]
-
-  [1]: https://sitelabs.es/wp-content/uploads/2015/08/what-is-webpack.png
-  [2]: https://sitelabs.es/wp-content/uploads/2015/08/what-is-webpack.png(hover text)
+![Webpack image](https://sitelabs.es/wp-content/uploads/2015/08/what-is-webpack.png)
 
 [**Webpack**](https://webpack.github.io) es un module bundler (empaquetador de módulos). Permite generar una distribución única a partir de un conjunto de recursos requeridos por nuestra aplicación.
 
