@@ -6,7 +6,7 @@ showcomments = true
 showpagemeta = true
 categories = []
 comments = false
-draft = false
+draft = true
 tags = []
 type = "post"
 +++
