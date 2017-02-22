@@ -1,6 +1,3 @@
-[submodule "website/themes/hugo-future-imperfect"]
-	path = website/themes/hugo-future-imperfect
-	url = https://github.com/jpescador/hugo-future-imperfect.git
 [submodule "website/themes/hugo-uno"]
 	path = website/themes/hugo-uno
 	url = https://github.com/fredrikloch/hugo-uno.git
