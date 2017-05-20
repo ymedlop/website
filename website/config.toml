@@ -1,7 +1,7 @@
 ## Basic Configuration
 baseurl = "https://ymedlop.es"
 theme = "hugo-uno"
-languageCode = "en-us"
+languageCode = "es-ES"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false

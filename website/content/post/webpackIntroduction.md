@@ -1,9 +1,6 @@
 +++
 draft = false
 title = "Introducción a webpack"
-showcomments = true
-showpagemeta = true
-comments = false
 slug = ""
 date = "2017-01-21T19:48:01+01:00"
 categories = []
