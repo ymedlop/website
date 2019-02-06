@@ -25,10 +25,8 @@ steps:
   displayName: 'Install firebase-tools'
 
 - script: |
-     mkdir -p ~/bin
+     mkdir -p ~/bin/hugo
      bash ./scripts/install-hugo.sh
-     chmod +x ~/bin/hugo
-     echo test
   displayName: 'Install hugo-cli'
 
 - script: |
