@@ -33,5 +33,5 @@ steps:
   displayName: 'Build our static website'
 
 - script: |
-     firebase deploy --token=$FIREBASE_TOKEN --non-interactive
+     firebase deploy --token=$(FIREBASE-TOKEN) --non-interactive
   displayName: 'Publish our static website'
