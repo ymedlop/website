@@ -27,8 +27,7 @@ steps:
 - script: |
      mkdir -p ~/bin/hugo
      bash ./scripts/install-hugo.sh
-     ls ~/bin
-     ls ~/bin/hugo
+     chmod +x ~/bin/hugo/*
   displayName: 'Install hugo-cli'
 
 - script: |
